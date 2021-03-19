@@ -1,8 +1,12 @@
 # Ass03
 Michelle Kutsanov 
+
 2297515
+
 kutsanov@chapman.edu
+
 CPSC 408
+
 Assignment 03
 
 
